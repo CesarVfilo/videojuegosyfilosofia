@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"list":[{"code":231,"indent":0,"parameters":[1,"pergamino1",0,0,0,0,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,2,2]},{"code":401,"indent":0,"parameters":["Pulsa para cerrar"]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"Pergamino1","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":231,"indent":0,"parameters":[1,"pergamino2",0,0,0,0,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,2,2]},{"code":401,"indent":0,"parameters":["Pulsa para cerrar"]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"Pergamino2","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":231,"indent":0,"parameters":[1,"pergamino3",0,0,0,0,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,2,2]},{"code":401,"indent":0,"parameters":["Pulsa para cerrar"]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"pergamino3","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":250,"indent":0,"parameters":[{"name":"Beber agua","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["Morfeo",1,0,2]},{"code":401,"indent":0,"parameters":["Refrescante y deliciosa"]},{"code":0,"indent":0,"parameters":[]}],"name":"Beber agua","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":231,"indent":0,"parameters":[1,"Carta fidias",0,0,0,0,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,2,2]},{"code":401,"indent":0,"parameters":["Pulsa para cerrar"]},{"code":235,"indent":0,"parameters":[1]},{"code":121,"indent":0,"parameters":[15,15,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Carta Fidias","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":231,"indent":0,"parameters":[1,"pergamino4",0,0,0,0,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,2,2]},{"code":401,"indent":0,"parameters":["Pulsa para cerrar"]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"pergamino4","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":231,"indent":0,"parameters":[1,"pergamino polo",0,0,0,0,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,2,2]},{"code":401,"indent":0,"parameters":["Pulsa para cerrar"]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"pergamino polo","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":231,"indent":0,"parameters":[1,"pergamino5",0,0,0,0,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,2,2]},{"code":401,"indent":0,"parameters":["Pulsa para cerrar"]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"Pergamino amatista","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":231,"indent":0,"parameters":[1,"pergamino6",0,0,0,0,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,2,2]},{"code":401,"indent":0,"parameters":["Pulsa para cerrar"]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"pergamino6","switchId":1,"trigger":0},
+{"id":10,"list":[{"code":231,"indent":0,"parameters":[1,"pergamino5",0,0,0,0,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,2,2]},{"code":401,"indent":0,"parameters":["Pulsa para cerrar"]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"Pergamino5","switchId":1,"trigger":0},
+{"id":11,"list":[{"code":101,"indent":0,"parameters":["Morfeo",2,0,2]},{"code":401,"indent":0,"parameters":["No pienso comerme mi caramelo, ¿Y si me"]},{"code":401,"indent":0,"parameters":["hace falta en algún momento?"]},{"code":0,"indent":0,"parameters":[]}],"name":"Caramelo","switchId":1,"trigger":0},
+{"id":12,"list":[{"code":231,"indent":0,"parameters":[1,"pergamino final",0,0,0,0,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,2,2]},{"code":401,"indent":0,"parameters":["Pulsa para cerrar"]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"Pergamino final","switchId":1,"trigger":0},
+{"id":13,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":14,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":15,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":16,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":17,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":18,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":19,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":20,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
